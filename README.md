@@ -6,6 +6,9 @@ I dwell on Discord and Twitch under an anonymouse handle where I code live and h
 I'm pretty stealth online and like to keep it that way but you can always find what I'm upto here. Lately
 I've been pretty actively posting my work on here and letting people in on my journey via LinkedIn (when it makes sense).
 
+## 📝 What you'll find here
+
+Open source projects and my dot files. Warning my dotfiles might be a bit controversial lol but it works for me.
 
 ## 📫 How to reach me
 
@@ -30,6 +33,3 @@ I've been pretty actively posting my work on here and letting people in on my jo
 - Ruby
 - Bash
 
-## 📝 What you'll find here
-
-Open source projects and my dot files. Warning my dotfiles might be a bit controversial lol but it works for me.
