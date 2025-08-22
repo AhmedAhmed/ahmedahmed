@@ -5,11 +5,14 @@ Just someone who loves to build things, make things faster and craft beutiful so
 Recent passion is sharing my work and have users build on top of my projects while building and joining
 communities.
 
-## 📫 How to reach me
-
 I dwell on Discord and Twitch under an anonymouse handle where I code live and hang out with my community.
 I also build tools where my community can connect with each other keeping privacy in mind. I like to stay
 private as you might notice. I'm a bit of a minimalist here are some of the tools I use.
+
+
+## 📫 How to reach me
+
+✉️ ahmedabdibusiness@gmail.com
 
 ## 👨🏽‍💻 Tools
 
