@@ -13,22 +13,22 @@ private as you might notice. I'm a bit of a minimalist here are some of the tool
 
 ## 👨🏽‍💻 Tools
 
-NeoVim
-TMUX
-Zsh
-Git
+- NeoVim
+- TMUX
+- Zsh
+- Git
 
 ## Languages
 
-JavaScript
-TypeScript
-Python
-Go
-CSS/Tailwind
-HTML
-Markdown
-Ruby
-Bash
+- JavaScript
+- TypeScript
+- Python
+- Go
+- CSS/Tailwind
+- HTML
+- Markdown
+- Ruby
+- Bash
 
 ## 📝 What you'll find here
 
