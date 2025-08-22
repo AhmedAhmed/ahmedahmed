@@ -2,12 +2,9 @@
 
 Just someone who loves to build things, make things faster and craft beutiful software.
 
-Recent passion is sharing my work and have users build on top of my projects while building and joining
-communities.
-
 I dwell on Discord and Twitch under an anonymouse handle where I code live and hang out with my community.
-I also build tools where my community can connect with each other keeping privacy in mind. I like to stay
-private as you might notice. I'm a bit of a minimalist here are some of the tools I use.
+I'm pretty stealth online and like to keep it that way but you can always find what I'm upto here. Lately
+I've been pretty actively posting my work on here and letting people in on my journey via LinkedIn (when it makes sense).
 
 
 ## 📫 How to reach me
